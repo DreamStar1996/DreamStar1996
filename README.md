@@ -19,8 +19,6 @@
         🦸‍♂️（皆为不切实际的）<br />
       </p>
       
-![GITHUB STARTS](https://github-readme-stats.vercel.app/api?username=DreamStar1996&show_icons=true)
-
 <h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 座右铭：学如逆水行舟，不进则退！
@@ -66,6 +64,6 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=lipangza&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipangza">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=DreamStar1996&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamStar1996">
 </p>
