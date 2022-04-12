@@ -1,7 +1,3 @@
-<p>
-    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:lovobin">
-        <img src="https://weather-icon.journeyad.repl.co/@xianyang?v=1" align="right"></a>
-    </p>
 <h1 align="center">Hi 👋, I'm Chen</h1><h3 align="center">Learning is the eternal motivation！</h3>
       <p>
         All at sea.<br />
