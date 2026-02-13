@@ -8,9 +8,7 @@
 
 <!-- ===== 多行打字机标语 ===== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=3BC9F7&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C%20World!%22);System.out.println(%22✨DreamStar✨%22);console.log('Code%20under%20stars');println!(%22Rust%20🦀%22);SELECT+*+FROM+galaxy" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E9%81%A8%E6%B8%B8%E6%A2%A6%E6%83%B3)](https://git.io/typing-svg)
 </p>
 
 <!-- ===== 社交徽章（请替换真实链接） ===== -->
