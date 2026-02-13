@@ -1,16 +1,24 @@
-<!-- 顶部动态波浪 + 标题 -->
+<!-- 顶部动态波浪 + 标题（稳定） -->
 <a href="https://github.com/DreamStar1996">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=✨%20DreamStar1996%20✨&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20全栈开发%20|%20云原生爱好者%20|%20追星者&descAlignY=55&descSize=20" />
 </a>
 
-<!-- 多行打字机标语 -->
+<!-- 访客计数强化：双徽章 + 大号显示 -->
+<p align="center">
+  <!-- 主访客计数：大尺寸、带标题 -->
+  <img src="https://komarev.com/ghpvc/?username=DreamStar1996&style=for-the-badge&color=blueviolet&label=✨+总星际访客+✨&base=1996" />
+  <!-- 备用访客计数（双保险） -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DreamStar1996.DreamStar1996&left_text=🌍+今日访客&right_color=blueviolet" />
+</p>
+
+<!-- 多行打字机标语（稳定） -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=3BC9F7&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C%20World!%22);System.out.println(%22✨DreamStar✨%22);console.log('Code%20under%20stars');println!(%22Rust%20🦀%22);SELECT+*+FROM+galaxy" alt="Typing SVG" />
   </p>
 </p>
 
-<!-- 徽章海洋（社交/工作/联系方式） -->
+<!-- 徽章海洋（社交/工作/联系方式）已全部使用稳定徽章 -->
 <p align="center">
   <a href="https://github.com/DreamStar1996">
     <img src="https://img.shields.io/badge/GitHub-主页-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -27,18 +35,18 @@
   <a href="https://twitter.com/DreamStar1996">
     <img src="https://img.shields.io/badge/Twitter-动态-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DreamStar1996&style=for-the-badge&color=blueviolet&label=✨+星际访客" alt="访客计数" />
 </p>
 
-<!-- 星尘分隔线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- 稳定分隔线：使用HTML <hr> 而非失效图片 -->
+<hr style="height:2px; border:none; color:rgba(66,165,245,0.3); background:linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);" width="100%">
 
-<!-- 🌠 关于我：卡片式简介 -->
+<!-- 🌠 关于我：卡片式简介（头像已替换为GitHub真实头像） -->
 <h2 align="center">🧬 星海档案 · 系统解码</h2>
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="100" alt="avatar">
+      <!-- 使用GitHub真实头像，绝对稳定 -->
+      <img src="https://github.com/DreamStar1996.png" width="100" style="border-radius: 50%;" alt="avatar">
       <br><strong>✨ DreamStar</strong>
       <br><sub>代码筑梦师</sub>
     </td>
@@ -54,7 +62,7 @@
   </tr>
 </table>
 
-<!-- 🌌 技术星系：分组武器库 -->
+<!-- 🌌 技术星系：分组武器库（skillicons.dev 稳定） -->
 <h2 align="center">🛸 技术星环 · 多维矩阵</h2>
 <p align="center">
   <b>🧠 核心语言</b><br>
@@ -77,7 +85,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis,elasticsearch,git&perline=6" />
 </p>
 
-<!-- 📊 四联性能仪表盘 -->
+<!-- 📊 四联性能仪表盘（全部稳定） -->
 <h2 align="center">📈 星河轨迹 · 动态指标</h2>
 <p align="center">
   <a href="https://github.com/DreamStar1996">
@@ -90,20 +98,25 @@
   </a>
 </p>
 
-<!-- 🏆 成就奖杯墙 -->
+<!-- 🏆 成就奖杯墙（稳定） -->
 <h2 align="center">🏅 星辰成就 · 荣誉殿堂</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DreamStar1996&theme=tokyonight&no-frame=true&no-bg=true&column=7&row=1&margin-w=15&margin-h=15" />
 </p>
 
-<!-- 🔥 3D贡献动态图（需额外设置Action，建议开启） -->
-<!-- 如果不想要可以删除 -->
+<!-- 🔥 贪吃蛇贡献图（提供稳定备选方案，无需配置Action） -->
 <h2 align="center">🐍 贪食星海 · 贡献网格</h2>
 <p align="center">
-  <img src="https://github.com/DreamStar1996/DreamStar1996/blob/output/github-contribution-grid-snake-dark.svg" />
+  <!-- 方案A：如果已配置GitHub Actions生成snake，会自动显示 -->
+  <img src="https://github.com/DreamStar1996/DreamStar1996/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <br>
+  <!-- 方案B：完全稳定的静态备选卡片，无需任何配置，直接显示贡献热图 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DreamStar1996&theme=tokyonight" alt="贡献日历" />
+  <br>
+  <sub>✨ 上图为稳定贡献日历，贪吃蛇动画需配置Actions（[教程](https://github.com/Platane/snk)）✨</sub>
 </p>
 
-<!-- 📌 项目发射井：精选项目卡片（4个） -->
+<!-- 📌 项目发射井：精选项目卡片（4个）请务必替换为真实仓库名 -->
 <h2 align="center">🚀 核心项目 · 发射清单</h2>
 <p align="center">
   <a href="https://github.com/DreamStar1996/stardust-monitor">
@@ -120,7 +133,7 @@
   </a>
 </p>
 
-<!-- 📝 最新技术笔记（静态版，可自行替换为动态blog post） -->
+<!-- 📝 最新技术笔记（稳定徽章） -->
 <h2 align="center">📚 星尘手记 · 近期文章</h2>
 <p align="center">
   <a href="https://dreamstar.dev/rust-wasm-guide">
@@ -144,7 +157,13 @@
   </a>
 </p>
 
-<!-- 底部动态波浪 -->
+<!-- 访客计数再次强调（底部双保险） -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DreamStar1996&style=flat-square&color=blueviolet&label=🌌+累计访客" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DreamStar1996.DreamStar1996&left_text=🌍+今日访客&right_color=blueviolet" />
+</p>
+
+<!-- 底部动态波浪（稳定） -->
 <a href="https://github.com/DreamStar1996">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42a5f5,100:0d47a1&height=150&section=footer&text=✨%20Keep%20coding%2C%20reach%20for%20the%20stars%20✨&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </a>
