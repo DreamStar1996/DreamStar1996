@@ -6,11 +6,6 @@
 <!-- ===== 访客计数 · 双保险（无乱码） ===== -->
 
 
-<!-- ===== 多行打字机标语 ===== -->
-<p align="center">
-  <a href="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=111BF7&background=FF0F0F00&width=435&lines=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E9%81%A8%E6%B8%B8%E6%A2%A6%E6%83%B3)](https://git.io/typing-svg)">
-  </a>
-</p>
 
 <!-- ===== 社交徽章（请替换真实链接） ===== -->
 <p align="center">
@@ -83,11 +78,9 @@
 <h2 align="center">📈 星河轨迹 · 动态指标</h2>
 <p align="center">
   <a href="https://github.com/DreamStar1996">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=DreamStar1996&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&border_radius=20" />
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DreamStar1996&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
   <a href="https://github.com/DreamStar1996">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamStar1996&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=8" />
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DreamStar1996&theme=tokyonight" />
   </a>
 </p>
@@ -95,7 +88,7 @@
 <!-- ===== 成就奖杯（一行显示核心成就） ===== -->
 <h2 align="center">🏆 星辰成就 · 荣誉殿堂</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DreamStar1996&theme=tokyonight&no-frame=true&no-bg=true&column=6&row=1&title=Stars,Commits,PRs,Issues,Repositories,Followers" />
+  
 </p>
 
 <!-- ===== 贡献热力 · 双保险（无需配置Action） ===== -->
