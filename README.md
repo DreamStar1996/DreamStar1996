@@ -100,28 +100,7 @@
   <!-- 3D贡献图，纯色块，自动更新 -->
   <img src="https://ghchart.rshah.org/8A2BE2/DreamStar1996" alt="3D贡献图" width="90%" />
   <br>
-  <!-- 轻量贡献日历卡片，与主题一致 -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=DreamStar1996&theme=tokyonight" width="90%" />
-  <br>
   <sub>✨ 完全零配置，每日自动更新 ✨</sub>
-</p>
-
-<!-- ===== 核心项目 · 请替换为真实仓库名 ===== -->
-<h2 align="center">🚀 核心项目 · 发射清单</h2>
-<p align="center">
-  <!-- ⚠️ 重要：请将仓库名（如 stardust-monitor）替换为您真实存在的仓库，否则卡片会404！ -->
-  <a href="https://github.com/DreamStar1996/stardust-monitor">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreamStar1996&repo=stardust-monitor&theme=tokyonight&border_radius=15" />
-  </a>
-  <a href="https://github.com/DreamStar1996/rust-algo-db">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreamStar1996&repo=rust-algo-db&theme=tokyonight&border_radius=15" />
-  </a>
-  <a href="https://github.com/DreamStar1996/k8s-observability-hub">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreamStar1996&repo=k8s-observability-hub&theme=tokyonight&border_radius=15" />
-  </a>
-  <a href="https://github.com/DreamStar1996/astro-blog-theme">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DreamStar1996&repo=astro-blog-theme&theme=tokyonight&border_radius=15" />
-  </a>
 </p>
 
 <!-- ===== 技术笔记 · 请替换真实文章链接 ===== -->
