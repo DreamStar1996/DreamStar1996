@@ -18,13 +18,13 @@
   <a href="https://space.bilibili.com/YOUR_UID">
     <img src="https://img.shields.io/badge/B站-教学日常-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <a href="https://dreamstar.dev">
+  <a href="https://seachen.cn">
     <img src="https://img.shields.io/badge/博客-星辰技术-00C7B7?style=for-the-badge&logo=hexo&logoColor=white" />
   </a>
-  <a href="mailto:dreamstar1996@example.com">
+  <a href="weichen961108@outlook.com">
     <img src="https://img.shields.io/badge/Email-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/DreamStar1996">
+  <a href="https://twitter.com/DreamStaro_VRC">
     <img src="https://img.shields.io/badge/Twitter-动态-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
@@ -83,6 +83,7 @@
   <a href="https://github.com/DreamStar1996">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DreamStar1996&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
+  <br>
   <a href="https://github.com/DreamStar1996">
     <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DreamStar1996&theme=tokyonight" />
   </a>
