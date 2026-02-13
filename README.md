@@ -8,7 +8,9 @@
 
 <!-- ===== 多行打字机标语 ===== -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E9%81%A8%E6%B8%B8%E6%A2%A6%E6%83%B3)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=111BF7&background=FF0F0F00&width=435&lines=%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E9%81%A8%E6%B8%B8%E6%A2%A6%E6%83%B3)](https://git.io/typing-svg)" />
+  </a>
 </p>
 
 <!-- ===== 社交徽章（请替换真实链接） ===== -->
