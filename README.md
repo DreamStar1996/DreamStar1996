@@ -3,9 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=✨%20DreamStar1996%20✨&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20全栈开发%20|%20云原生爱好者%20|%20追星者&descAlignY=55&descSize=20" />
 </a>
 
-<!-- ===== 访客计数 · 双保险（无乱码） ===== -->
-
-
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- ===== 社交徽章（请替换真实链接） ===== -->
 <p align="center">
