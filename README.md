@@ -4,10 +4,7 @@
 </a>
 
 <!-- ===== 访客计数 · 双保险（无乱码） ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DreamStar1996&style=for-the-badge&color=8A2BE2&label=✨+总星际访客+✨" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DreamStar1996.DreamStar1996&left_text=🌍+今日访客&right_color=8A2BE2" />
-</p>
+
 
 <!-- ===== 多行打字机标语 ===== -->
 <p align="center">
