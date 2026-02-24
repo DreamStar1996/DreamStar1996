@@ -130,8 +130,7 @@
 
 <!-- ===== 底部访客计数（双保险） ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DreamStar1996&style=flat-square&color=8A2BE2&label=🌌+累计访客" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DreamStar1996.DreamStar1996&left_text=🌍+今日访客&right_color=8A2BE2" />
+![:DreamStar1996](https://count.getloli.com/@:DreamStar1996)
 </p>
 
 <!-- ===== 底部动态波浪 ===== -->
