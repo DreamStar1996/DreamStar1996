@@ -130,7 +130,7 @@
 
 <!-- ===== 底部访客计数（双保险） ===== -->
 <p align="center">
-![:DreamStar1996](https://count.getloli.com/@:DreamStar1996)
+<img src="https://count.getloli.com/@:DreamStar1996" alt=":DreamStar1996" />
 </p>
 
 <!-- ===== 底部动态波浪 ===== -->
