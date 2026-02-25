@@ -29,8 +29,8 @@
   </a>
 </p>
 
-<!-- ===== 渐变分隔线（纯CSS） ===== -->
-<hr style="height:2px; border:none; background:linear-gradient(90deg, #0d47a1, #42a5f5, #0d47a1);" width="100%">
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ===== 关于我：卡片式简介（头像绝对稳定） ===== -->
 <h2 align="center">🧬 星海档案 · 系统解码</h2>
@@ -52,6 +52,9 @@
     </td>
   </tr>
 </table>
+
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ===== 技术星系 · 图标镜像源（100%加载） ===== -->
 <h2 align="center">🛸 技术星环 · 多维矩阵</h2>
@@ -77,6 +80,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongo,redis,elasticsearch,git&perline=6&theme=dark" />
 </p>
 
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+
 <!-- ===== 动态指标 · 四联统计（稳定服务） ===== -->
 <h2 align="center">📈 星河轨迹 · 动态指标</h2>
 <p align="center">
@@ -89,11 +95,17 @@
   </a>
 </p>
 
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+
 <!-- ===== 成就奖杯（一行显示核心成就） ===== -->
 <h2 align="center">🏆 星辰成就 · 荣誉殿堂</h2>
 <p align="center">
   
 </p>
+
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ===== 贡献热力 · 双保险（无需配置Action） ===== -->
 <h2 align="center">🔥 星尘热力 · 年度贡献</h2>
@@ -103,6 +115,9 @@
   <br>
   <sub>✨ 完全零配置，每日自动更新 ✨</sub>
 </p>
+
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ===== 技术笔记 · 请替换真实文章链接 ===== -->
 <h2 align="center">📚 星尘手记 · 近期文章</h2>
@@ -127,6 +142,9 @@
     <img src="https://img.shields.io/badge/☕-请我喝咖啡-FFDD00?style=for-the-badge&logo=paypal" />
   </a>
 </p>
+
+<!-- ═══ 霓虹灯线 ═══ -->
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
 
 <!-- ===== 底部访客计数（双保险） ===== -->
 <p align="center">
