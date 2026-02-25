@@ -29,8 +29,8 @@
   </a>
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 关于我：卡片式简介（头像绝对稳定） ===== -->
 <h2 align="center">🧬 星海档案 · 系统解码</h2>
@@ -53,8 +53,8 @@
   </tr>
 </table>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 技术星系 · 图标镜像源（100%加载） ===== -->
 <h2 align="center">🛸 技术星环 · 多维矩阵</h2>
@@ -80,8 +80,8 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongo,redis,elasticsearch,git&perline=6&theme=dark" />
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 动态指标 · 四联统计（稳定服务） ===== -->
 <h2 align="center">📈 星河轨迹 · 动态指标</h2>
@@ -95,8 +95,8 @@
   </a>
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 成就奖杯（一行显示核心成就） ===== -->
 <h2 align="center">🏆 星辰成就 · 荣誉殿堂</h2>
@@ -104,8 +104,8 @@
   
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 贡献热力 · 双保险（无需配置Action） ===== -->
 <h2 align="center">🔥 星尘热力 · 年度贡献</h2>
@@ -116,8 +116,8 @@
   <sub>✨ 完全零配置，每日自动更新 ✨</sub>
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 技术笔记 · 请替换真实文章链接 ===== -->
 <h2 align="center">📚 星尘手记 · 近期文章</h2>
@@ -143,8 +143,8 @@
   </a>
 </p>
 
-<!-- ═══ 霓虹灯线 ═══ -->
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /></p>
+<!-- ═══ 动态彩虹霓虹灯线 ═══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ===== 底部访客计数（双保险） ===== -->
 <p align="center">
